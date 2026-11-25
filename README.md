@@ -58,13 +58,6 @@ The selected frequency-domain and wavelet features reduce the feature dimension 
 
 The Random Forest classifier using all 27 features achieves the highest overall accuracy on the final test set.
 
-7. Author
-
-Lin Yun
-
-Student ID: 2315105014
-
-Huaqiao University
 
 Integrated Circuit Design and Integrated Systems
 
