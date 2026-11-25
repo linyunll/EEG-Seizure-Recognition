@@ -61,6 +61,6 @@ The Random Forest classifier using all 27 features achieves the highest overall 
 
 Integrated Circuit Design and Integrated Systems
 
-8. Disclaimer
+7. Disclaimer
 
 This project is developed for academic and educational purposes and is not intended for clinical diagnosis.
